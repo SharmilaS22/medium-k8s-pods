@@ -1,2 +1,2 @@
-# medium-docker-nodejs
+# medium-k8s-nodejs
 
